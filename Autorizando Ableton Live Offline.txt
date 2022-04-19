@@ -1,0 +1,15 @@
+﻿Instrucciones para la Autorización Offline 
+--------------------------------------
+
+Aquí está lo que necesita para una autorización offline:
+
+- Un dispositivo de almacenamiento externo (como un lápiz USB)
+
+- Un ordenador con una conexión a internet
+
+- Su número de serie de Ableton (si adquirió Live en una tienda)
+
+- Su código hardware: 2305-FECD-4ADA-F015-D9C7-92E1
+
+En un ordenador conectado a internet, diríjase a www.ableton.com/authorize.
+Esta página web le proporcionará más información.
